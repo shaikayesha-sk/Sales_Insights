@@ -14,6 +14,8 @@ This dataset comprises several CSV files containing information related to sales
 
 5. transactions.csv: This is the main data file containing records of sales transactions. Each row represents a single transaction and includes attributes such as transaction ID, date, customer ID, product ID, quantity sold, total sales amount, and any other relevant transaction details.
 
+In conclusion the sales insights reveal that sales quantity in the Delhi NCR market accounts for approximately 56.88% (142.2M out of 250M) of the total sales revenue, indicating its dominance as the highest-performing market in terms of sales.
+
 
 View my dashboard - https://public.tableau.com/app/profile/ayesha.shaik1821/viz/SalesInsights_17147425512290/Dashboard1?publish=yes
 
